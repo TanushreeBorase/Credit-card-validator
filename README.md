@@ -12,6 +12,7 @@ The application uses Java's HttpURLConnection to establish a connection with the
 
 # GUI
 Swing
+
 AWT
 
 # API
