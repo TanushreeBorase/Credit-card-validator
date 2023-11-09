@@ -4,16 +4,17 @@ The application uses Java's HttpURLConnection to establish a connection with the
 
 # OBJECTIVE
 		
-1.	Real-Time Weather Information: The primary objective of this project is to provide users with access to real-time weather data, ensuring the information is current and accurate. This serves to meet the increasing demand for timely weather updates.
-2.	Secure Data Retrieval: A key objective is to establish secure and reliable connections with external data sources through the utilization of Java's HTTP capabilities, specifically the HttpURLConnection class. This is vital to ensure the trustworthy retrieval of weather data.
-3.	OpenWeatherMap Integration: The project aims to seamlessly integrate with the OpenWeatherMap API, which offers extensive coverage of weather-related information, enhancing the richness and comprehensiveness of the data accessible to users.
-4.	Customization and Security: Providing users with the option to substitute the provided API key with their own key is a fundamental objective. This not only aligns with best practices but also ensures the security of user credentials, while enabling customization of the application to specific needs.
+1.  Real-Time Weather Information: The primary objective of this project is to provide users with access to real-time weather data, ensuring the information is current and accurate. This serves to meet the increasing demand for timely weather updates.
+2.  Secure Data Retrieval: A key objective is to establish secure and reliable connections with external data sources through the utilization of Java's HTTP capabilities, specifically the HttpURLConnection class. This is vital to ensure the trustworthy retrieval of weather data.
+3.  OpenWeatherMap Integration: The project aims to seamlessly integrate with the OpenWeatherMap API, which offers extensive coverage of weather-related information, enhancing the richness and comprehensiveness of the data accessible to users.
+4.  Customization and Security: Providing users with the option to substitute the provided API key with their own key is a fundamental objective. This not only aligns with best practices but also ensures the security of user credentials, while enabling customization of the application to specific needs.
 
-5.	# GUI
-6.	Swing
-7.	AWT
 
-8.	#API
-9.	OpenWeatherMap API
+# GUI
+Swing
+AWT
 
-10.	# Output Overview
+# API
+OpenWeatherMap API
+
+# Output Overview
