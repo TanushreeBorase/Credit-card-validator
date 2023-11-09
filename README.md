@@ -19,3 +19,6 @@ AWT
 OpenWeatherMap API
 
 # Output Overview
+
+![image](https://github.com/TanushreeBorase/Weather-Forecast-Predition/assets/130696335/e8eb2ffc-75dd-4bce-b768-295b308156e3)
+
