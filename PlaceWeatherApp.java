@@ -35,7 +35,7 @@ public class PlaceWeatherApp {
             public void actionPerformed(ActionEvent e) {
                 String location = locationField.getText().trim();
                 if (!location.isEmpty()) {
-                    String apiKey = "a301a9da9dec12f7b394e5599cf244ff"; // Replace with your OpenWeatherMap API key
+                    String apiKey = "a301a9da9dec12f7b394e5599cf244ff"; 
                     String apiUrl = "http://api.openweathermap.org/data/2.5/weather?q=" + location + "&appid=" + apiKey;
 
                     try {
@@ -48,10 +48,6 @@ public class PlaceWeatherApp {
                             response.append(scanner.nextLine());
                         }
 
-                        // Parse the JSON response here
-                        // You can use a JSON library like Jackson or Gson for this
-
-                        // Display the weather information in the JTextArea
                         weatherTextArea.setText(response.toString());
 
                         scanner.close();
