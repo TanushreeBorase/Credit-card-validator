@@ -1,11 +1,11 @@
 # Weather Forecast Prediction
-The "Place Weather App" is a Java Swing-based desktop application designed to provide users with up-to-date weather information for a specified location. 
+-> The "Place Weather App" is a Java Swing-based desktop application designed to provide users with up-to-date weather information for a specified location. 
 
-Users can enter the name of a place, and the application retrieves weather data from the OpenWeatherMap API. This weather data is displayed in a user-friendly graphical interface, making it easy for users to access real-time weather conditions.
+-> Users can enter the name of a place, and the application retrieves weather data from the OpenWeatherMap API. This weather data is displayed in a user-friendly graphical interface, making it easy for users to access real-time weather conditions.
 
-The application uses Java's HttpURLConnection to establish a connection with the OpenWeatherMap API, and it retrieves and displays the JSON-formatted weather data in a text area. Users can customize the application by replacing the placeholder API key with their own OpenWeatherMap API key. 
+-> The application uses Java's HttpURLConnection to establish a connection with the OpenWeatherMap API, and it retrieves and displays the JSON-formatted weather data in a text area. Users can customize the application by replacing the placeholder API key with their own OpenWeatherMap API key. 
 
-This Place Weather App serves as a basic example of how to create a desktop application for accessing external data sources and provides a foundation for building more sophisticated weather applications with additional features and improved user experience. 
+-> This Place Weather App serves as a basic example of how to create a desktop application for accessing external data sources and provides a foundation for building more sophisticated weather applications with additional features and improved user experience. 
 
 # OBJECTIVE
 		
